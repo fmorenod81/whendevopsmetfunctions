@@ -2,7 +2,7 @@
 When OCI Devops Services met functions
 
 
-##MAIN DEMO
+## Main Demo
 
 Demo: https://docs.oracle.com/en/solutions/build-cicd-pipelines-devops-function/index.html#GUID-C4F10A64-2EC5-44C8-BFC9-BF20A387EE70
 
